@@ -1,0 +1,938 @@
+{
+  "id": "da3822cb0b334da7a9c463989d44e00e",
+  "examples": [
+    {
+      "example_id": "8201c8c6-ab09-4105-ad04-79d3bfc2b808",
+      "content": "Hi All,\n\nI hope that week number 2 is going along swimmingly. We look forward to hearing more about what you've been up to when we're together on Friday. I'm attaching the draft prac semester schedule and notes that we worked on at retreat for everyone to look over. You can be chatting with your LP about your plans for your prac session and we'll fill that in next week. Important Reminder: because of class schedules we'll be having prac from 3:30-5:30 after this first week. \n\nThe plan for this Friday is to kick the semester off with some service and fun, doing a canoe and scoop on the Middle Branch River. We will meet at Middle Branch Park at 3pm on Friday. It's likely we won't be done scoopin' until about 5:30, so if you can, plan to stay a little late. Wear something comfy that you don't mind getting dripped-on as we paddle and pick up trash. \n\nThere is a chance that the weather will thwart our plans. If that happens, we will email out by noon on Friday and plan to meet here on campus in the Prac room (PUP 107) at 3 and do our canoe and scoop next week. \n\n\nBest, \n\nCharlotte Keniston",
+      "metadata": {},
+      "seen_by": [
+        {
+          "annotator_id": 1,
+          "annotator": "jjozwiak"
+        }
+      ],
+      "annotations": [
+        {
+          "tagged_token_id": "75cd423f-cae0-43b6-a8aa-0c9b9ac24c2f",
+          "definition_id": "da3822cb-0b33-4da7-a9c4-63989d44e00e",
+          "example_id": "8201c8c6-ab09-4105-ad04-79d3bfc2b808",
+          "start": 446,
+          "end": 455,
+          "tag": "TIME",
+          "tag_id": "1505a078-61b5-4b84-b128-b92618758a5d",
+          "value": "3:30-5:30",
+          "correct": true,
+          "reviewed": true,
+          "annotated_by": [
+            {
+              "annotator_id": 1,
+              "timestamp": "2020-05-03T16:10:24.138+00:00",
+              "annotator": "jjozwiak"
+            }
+          ]
+        },
+        {
+          "tagged_token_id": "a41c718e-66d3-441b-a394-e226af6484a4",
+          "definition_id": "da3822cb-0b33-4da7-a9c4-63989d44e00e",
+          "example_id": "8201c8c6-ab09-4105-ad04-79d3bfc2b808",
+          "start": 436,
+          "end": 440,
+          "tag": "EVT",
+          "tag_id": "9ac97eab-63a4-4314-9f69-80d6708fddb7",
+          "value": "prac",
+          "correct": true,
+          "reviewed": true,
+          "annotated_by": [
+            {
+              "annotator_id": 1,
+              "timestamp": "2020-05-03T16:10:17.218+00:00",
+              "annotator": "jjozwiak"
+            }
+          ]
+        },
+        {
+          "tagged_token_id": "607fcf3b-1b19-4a6b-b063-e867354154cb",
+          "definition_id": "da3822cb-0b33-4da7-a9c4-63989d44e00e",
+          "example_id": "8201c8c6-ab09-4105-ad04-79d3bfc2b808",
+          "start": 651,
+          "end": 654,
+          "tag": "TIME",
+          "tag_id": "1505a078-61b5-4b84-b128-b92618758a5d",
+          "value": "3pm",
+          "correct": true,
+          "reviewed": true,
+          "annotated_by": [
+            {
+              "annotator_id": 1,
+              "timestamp": "2020-05-03T16:10:59.634+00:00",
+              "annotator": "jjozwiak"
+            }
+          ]
+        },
+        {
+          "tagged_token_id": "c498d30f-8fea-45e6-9f71-ff5cac324f87",
+          "definition_id": "da3822cb-0b33-4da7-a9c4-63989d44e00e",
+          "example_id": "8201c8c6-ab09-4105-ad04-79d3bfc2b808",
+          "start": 629,
+          "end": 647,
+          "tag": "LOC",
+          "tag_id": "1335c93a-b476-4ac9-8524-73df86e4f967",
+          "value": "Middle Branch Park",
+          "correct": true,
+          "reviewed": true,
+          "annotated_by": [
+            {
+              "annotator_id": 1,
+              "timestamp": "2020-05-03T16:10:55.802+00:00",
+              "annotator": "jjozwiak"
+            }
+          ]
+        },
+        {
+          "tagged_token_id": "4b1f7509-67f2-4595-b785-6fa7a3601f15",
+          "definition_id": "da3822cb-0b33-4da7-a9c4-63989d44e00e",
+          "example_id": "8201c8c6-ab09-4105-ad04-79d3bfc2b808",
+          "start": 569,
+          "end": 584,
+          "tag": "EVT",
+          "tag_id": "9ac97eab-63a4-4314-9f69-80d6708fddb7",
+          "value": "canoe and scoop",
+          "correct": true,
+          "reviewed": true,
+          "annotated_by": [
+            {
+              "annotator_id": 1,
+              "timestamp": "2020-05-03T16:10:36.234+00:00",
+              "annotator": "jjozwiak"
+            }
+          ]
+        },
+        {
+          "tagged_token_id": "1436568c-219a-4bf1-b35b-97b0bcf80432",
+          "definition_id": "da3822cb-0b33-4da7-a9c4-63989d44e00e",
+          "example_id": "8201c8c6-ab09-4105-ad04-79d3bfc2b808",
+          "start": 1083,
+          "end": 1101,
+          "tag": "PAR",
+          "tag_id": "136c1cca-c375-4e45-8fa8-772aa6d9dfb9",
+          "value": "Charlotte Keniston",
+          "correct": true,
+          "reviewed": true,
+          "annotated_by": [
+            {
+              "annotator_id": 1,
+              "timestamp": "2020-05-03T16:11:12.114+00:00",
+              "annotator": "jjozwiak"
+            }
+          ]
+        },
+        {
+          "tagged_token_id": "48f0b4a4-7eee-40cb-8b16-66d28040fa12",
+          "definition_id": "da3822cb-0b33-4da7-a9c4-63989d44e00e",
+          "example_id": "8201c8c6-ab09-4105-ad04-79d3bfc2b808",
+          "start": 592,
+          "end": 611,
+          "tag": "LOC",
+          "tag_id": "1335c93a-b476-4ac9-8524-73df86e4f967",
+          "value": "Middle Branch River",
+          "correct": true,
+          "reviewed": true,
+          "annotated_by": [
+            {
+              "annotator_id": 1,
+              "timestamp": "2020-05-03T16:10:45.297+00:00",
+              "annotator": "jjozwiak"
+            }
+          ]
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "example_id": "976ce61b-cd82-42b3-b58a-a4bdf7e9c8ca",
+      "content": "Hi Everyone, \n\nJust ahead of our prac I wanted to share an article that I read last month commemorating September 11, 2001: \n\nIn every generation, those who have undertaken national service, in the military or in a civilian capacity, have emerged more connected to their generation and more invested in their country. It compels young people out of their comfort zones and cultivates a sense of duty and civic responsibility, all while surrounding them with people from different corners of the country and the globe who look, pray, sound, and live differently from themselves. From our perch in the White House, we saw this culture of service emerge strongly after 9/11, the last time there were more national service opportunities through programs like the Peace Corps, Senior Corps, AmeriCorps, and Volunteers in Service to America.\n\nIndeed, many of us were shaped by this event, where a culture of fear created a more resilient, collective identity. Obviously we've all done something scary getting out of or comfort zones through service, so in the spirit of Halloween, we'll have a brief conversation that explores what some of our fears are and how we carry (or mask) them in our lives as public servants.\n\nBefore joining us on Friday please think about other stronger fears that have stayed with you or developed in the present day.\n\nWe'll be meeting at 3:30 at Westminster Hall in downtown Baltimore where we'll take a guided tour so make sure to comfortably dress for the weather as we may be outdoors for an extended time.\n\n\nBest, \nNicho + Emmanuel",
+      "metadata": {},
+      "seen_by": [
+        {
+          "annotator_id": 1,
+          "annotator": "jjozwiak"
+        }
+      ],
+      "annotations": [],
+      "classifications": []
+    },
+    {
+      "example_id": "f9db2914-63a3-4f36-9651-1b4b22e1e5b4",
+      "content": "Hi Folks,\n\nWe will meet at Graffiti Alley at 12:30 tomorrow to kick off our first Baltimore tour. Bring a water bottle and dress comfortably, as we'll be doing some walking at a few of our stops. Most of you live near enough to there that you can probably walk and meet us there; we will all hop in the van and drive together from there. Anyone who wants to ride in the van from UMBC is welcome to; meet us at The Shriver Center at 12pm. \n\nWe will wind our way through the city, thinking about places and spaces, and how we imbue them with meaning, change them (on purpose or on accident), share them, build them, and inhabit them. \n\nThe following are the websites of a few places we'll stop, if you want to get a sense of their work: \nImpact Hub: https://baltimore.impacthub.net/\nFriends of Patterson Park: https://pattersonpark.com/\nCreative Alliance: https://www.creativealliance.org/\n\nIn preparation for our tour and conversations tomorrow, take a look at a these really short articles and bring your thoughts and questions: \nhttps://www.planning.org/knowledgebase/creativeplacemaking/\n\nhttps://www.huffpost.com/entry/baltimore-opens-its-walls_b_1551415\n\n\nI'm looking forward to touring with you tomorrow! \n\nCharlotte Keniston",
+      "metadata": {},
+      "seen_by": [
+        {
+          "annotator_id": 1,
+          "annotator": "jjozwiak"
+        }
+      ],
+      "annotations": [
+        {
+          "tagged_token_id": "7e575155-412f-4497-95db-cd247fb2bbb5",
+          "definition_id": "da3822cb-0b33-4da7-a9c4-63989d44e00e",
+          "example_id": "f9db2914-63a3-4f36-9651-1b4b22e1e5b4",
+          "start": 410,
+          "end": 428,
+          "tag": "LOC",
+          "tag_id": "1335c93a-b476-4ac9-8524-73df86e4f967",
+          "value": "The Shriver Center",
+          "correct": true,
+          "reviewed": true,
+          "annotated_by": [
+            {
+              "annotator_id": 1,
+              "timestamp": "2020-05-03T16:12:10.842+00:00",
+              "annotator": "jjozwiak"
+            }
+          ]
+        },
+        {
+          "tagged_token_id": "137ad729-a1ae-42ad-8628-46990e7a05ba",
+          "definition_id": "da3822cb-0b33-4da7-a9c4-63989d44e00e",
+          "example_id": "f9db2914-63a3-4f36-9651-1b4b22e1e5b4",
+          "start": 27,
+          "end": 41,
+          "tag": "LOC",
+          "tag_id": "1335c93a-b476-4ac9-8524-73df86e4f967",
+          "value": "Graffiti Alley",
+          "correct": true,
+          "reviewed": true,
+          "annotated_by": [
+            {
+              "annotator_id": 1,
+              "timestamp": "2020-05-03T16:11:36.274+00:00",
+              "annotator": "jjozwiak"
+            }
+          ]
+        },
+        {
+          "tagged_token_id": "6fb9f2ce-033d-42fe-b748-47dc1b8671c0",
+          "definition_id": "da3822cb-0b33-4da7-a9c4-63989d44e00e",
+          "example_id": "f9db2914-63a3-4f36-9651-1b4b22e1e5b4",
+          "start": 432,
+          "end": 436,
+          "tag": "TIME",
+          "tag_id": "1505a078-61b5-4b84-b128-b92618758a5d",
+          "value": "12pm",
+          "correct": true,
+          "reviewed": true,
+          "annotated_by": [
+            {
+              "annotator_id": 1,
+              "timestamp": "2020-05-03T16:12:14.49+00:00",
+              "annotator": "jjozwiak"
+            }
+          ]
+        },
+        {
+          "tagged_token_id": "c71e93ae-c3db-4919-84b3-b3132004f6d6",
+          "definition_id": "da3822cb-0b33-4da7-a9c4-63989d44e00e",
+          "example_id": "f9db2914-63a3-4f36-9651-1b4b22e1e5b4",
+          "start": 45,
+          "end": 50,
+          "tag": "TIME",
+          "tag_id": "1505a078-61b5-4b84-b128-b92618758a5d",
+          "value": "12:30",
+          "correct": true,
+          "reviewed": true,
+          "annotated_by": [
+            {
+              "annotator_id": 1,
+              "timestamp": "2020-05-03T16:11:40.266+00:00",
+              "annotator": "jjozwiak"
+            }
+          ]
+        },
+        {
+          "tagged_token_id": "8027f79d-f3f0-4592-833b-c3f09ff319d0",
+          "definition_id": "da3822cb-0b33-4da7-a9c4-63989d44e00e",
+          "example_id": "f9db2914-63a3-4f36-9651-1b4b22e1e5b4",
+          "start": 1212,
+          "end": 1230,
+          "tag": "PAR",
+          "tag_id": "136c1cca-c375-4e45-8fa8-772aa6d9dfb9",
+          "value": "Charlotte Keniston",
+          "correct": true,
+          "reviewed": true,
+          "annotated_by": [
+            {
+              "annotator_id": 1,
+              "timestamp": "2020-05-03T16:12:02.082+00:00",
+              "annotator": "jjozwiak"
+            }
+          ]
+        },
+        {
+          "tagged_token_id": "41588d48-5f6d-4eae-9e82-e18699d187b8",
+          "definition_id": "da3822cb-0b33-4da7-a9c4-63989d44e00e",
+          "example_id": "f9db2914-63a3-4f36-9651-1b4b22e1e5b4",
+          "start": 82,
+          "end": 96,
+          "tag": "EVT",
+          "tag_id": "9ac97eab-63a4-4314-9f69-80d6708fddb7",
+          "value": "Baltimore tour",
+          "correct": true,
+          "reviewed": true,
+          "annotated_by": [
+            {
+              "annotator_id": 1,
+              "timestamp": "2020-05-03T16:11:46.698+00:00",
+              "annotator": "jjozwiak"
+            }
+          ]
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "example_id": "7a0049b6-cb70-4e05-a798-81f402e5c7e8",
+      "content": "Hello Peaceworkers,\n\nFor tomorrow's Prac we'll gather at 3pm in PUP 107 and begin with some short check-ins- we'll stick to 1-2 sentences, a \"tweet\", or a haiku- you decide! We'll then participate in a story circle, allowing the 2nd year fellows to further workshop the ideas that they shared at retreat. Come with something to write on and with and prepared to listen deeply, take notes, and provide thoughtful feedback. \n\nWe'll then spend some time thinking about or theme of Society for this semester. Joby will walk us through some of the themes and ideas that feed that theme as a way to prime the pump for the great conversations we'll have together this semester! \n\nJoby and I will bring some yummy (valentines themed!?) snacks; we look forward to seeing all of you!  \n\nBest, \n\nCharlotte Keniston",
+      "metadata": {},
+      "seen_by": [
+        {
+          "annotator_id": 1,
+          "annotator": "jjozwiak"
+        }
+      ],
+      "annotations": [
+        {
+          "tagged_token_id": "deda7006-ef3f-4bc1-b8d4-1c98753f11b7",
+          "definition_id": "da3822cb-0b33-4da7-a9c4-63989d44e00e",
+          "example_id": "7a0049b6-cb70-4e05-a798-81f402e5c7e8",
+          "start": 36,
+          "end": 40,
+          "tag": "EVT",
+          "tag_id": "9ac97eab-63a4-4314-9f69-80d6708fddb7",
+          "value": "Prac",
+          "correct": true,
+          "reviewed": true,
+          "annotated_by": [
+            {
+              "annotator_id": 1,
+              "timestamp": "2020-05-03T16:08:51.178+00:00",
+              "annotator": "jjozwiak"
+            }
+          ]
+        },
+        {
+          "tagged_token_id": "15793ad9-b34d-476b-b42e-8cfddfd88957",
+          "definition_id": "da3822cb-0b33-4da7-a9c4-63989d44e00e",
+          "example_id": "7a0049b6-cb70-4e05-a798-81f402e5c7e8",
+          "start": 505,
+          "end": 509,
+          "tag": "PAR",
+          "tag_id": "136c1cca-c375-4e45-8fa8-772aa6d9dfb9",
+          "value": "Joby",
+          "correct": true,
+          "reviewed": true,
+          "annotated_by": [
+            {
+              "annotator_id": 1,
+              "timestamp": "2020-05-03T16:09:15.105+00:00",
+              "annotator": "jjozwiak"
+            }
+          ]
+        },
+        {
+          "tagged_token_id": "aeb8c1f2-bd2d-4924-96bc-eecd6218ce1d",
+          "definition_id": "da3822cb-0b33-4da7-a9c4-63989d44e00e",
+          "example_id": "7a0049b6-cb70-4e05-a798-81f402e5c7e8",
+          "start": 785,
+          "end": 803,
+          "tag": "PAR",
+          "tag_id": "136c1cca-c375-4e45-8fa8-772aa6d9dfb9",
+          "value": "Charlotte Keniston",
+          "correct": true,
+          "reviewed": true,
+          "annotated_by": [
+            {
+              "annotator_id": 1,
+              "timestamp": "2020-05-03T16:09:09.281+00:00",
+              "annotator": "jjozwiak"
+            }
+          ]
+        },
+        {
+          "tagged_token_id": "f5917631-68f4-42b3-a82b-022fcc8c2dc2",
+          "definition_id": "da3822cb-0b33-4da7-a9c4-63989d44e00e",
+          "example_id": "7a0049b6-cb70-4e05-a798-81f402e5c7e8",
+          "start": 64,
+          "end": 71,
+          "tag": "LOC",
+          "tag_id": "1335c93a-b476-4ac9-8524-73df86e4f967",
+          "value": "PUP 107",
+          "correct": true,
+          "reviewed": true,
+          "annotated_by": [
+            {
+              "annotator_id": 1,
+              "timestamp": "2020-05-03T16:09:00.801+00:00",
+              "annotator": "jjozwiak"
+            }
+          ]
+        },
+        {
+          "tagged_token_id": "dce31a84-aa2d-4fcc-878c-883982564a3f",
+          "definition_id": "da3822cb-0b33-4da7-a9c4-63989d44e00e",
+          "example_id": "7a0049b6-cb70-4e05-a798-81f402e5c7e8",
+          "start": 57,
+          "end": 60,
+          "tag": "TIME",
+          "tag_id": "1505a078-61b5-4b84-b128-b92618758a5d",
+          "value": "3pm",
+          "correct": true,
+          "reviewed": true,
+          "annotated_by": [
+            {
+              "annotator_id": 1,
+              "timestamp": "2020-05-03T16:08:56.329+00:00",
+              "annotator": "jjozwiak"
+            }
+          ]
+        },
+        {
+          "tagged_token_id": "37af8c4b-d575-4770-98e8-0d739096fd91",
+          "definition_id": "da3822cb-0b33-4da7-a9c4-63989d44e00e",
+          "example_id": "7a0049b6-cb70-4e05-a798-81f402e5c7e8",
+          "start": 673,
+          "end": 677,
+          "tag": "PAR",
+          "tag_id": "136c1cca-c375-4e45-8fa8-772aa6d9dfb9",
+          "value": "Joby",
+          "correct": true,
+          "reviewed": true,
+          "annotated_by": [
+            {
+              "annotator_id": 1,
+              "timestamp": "2020-05-03T16:09:18.761+00:00",
+              "annotator": "jjozwiak"
+            }
+          ]
+        },
+        {
+          "tagged_token_id": "a8527f9c-b7cc-426d-903d-9bf18155297b",
+          "definition_id": "da3822cb-0b33-4da7-a9c4-63989d44e00e",
+          "example_id": "7a0049b6-cb70-4e05-a798-81f402e5c7e8",
+          "start": 682,
+          "end": 683,
+          "tag": "PAR",
+          "tag_id": "136c1cca-c375-4e45-8fa8-772aa6d9dfb9",
+          "value": "I",
+          "correct": true,
+          "reviewed": true,
+          "annotated_by": [
+            {
+              "annotator_id": 1,
+              "timestamp": "2020-05-03T16:09:30.385+00:00",
+              "annotator": "jjozwiak"
+            }
+          ]
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "example_id": "040bb387-8f8a-4e01-9aa1-ec11477b3324",
+      "content": "Hi Peaceworkers!\n\nThis Friday Emmanuel and I will be discussing peaceful civil resistance as a way of enacting social change and how a minority of just 3.5% can make that change. \n\nIn order to prepare ourselves for a fruitful session we ask that you check out the principal article here:\nhttps://www.bbc.com/future/article/20190513-it-only-takes-35-of-people-to-change-the-world  \nAnd please watch Erica Chenoweth's TED talk here:\nhttps://rationalinsurgent.com/2013/11/04/my-talk-at-tedxboulder-civil-resistance-and-the-3-5-rule/\n\nThey really complement each other, but I know we just added two more things that you have to do this week - so as always just do the best you can. As you read and/or listen please think about the social movements/protests that you have been interested in either in your lifetime or in history, and we can talk about them on Friday. Laptops are welcome. Thanks and see you all Friday!\n\nPower to the peaceful,\nNicho & Emmanuel\n\n\nPS. Don't forget it's 3:30-5:30 this week!",
+      "metadata": {},
+      "seen_by": [
+        {
+          "annotator_id": 1,
+          "annotator": "jjozwiak"
+        }
+      ],
+      "annotations": [
+        {
+          "tagged_token_id": "d69edf0d-c6be-451d-a8ee-27ed6eadeb00",
+          "definition_id": "da3822cb-0b33-4da7-a9c4-63989d44e00e",
+          "example_id": "040bb387-8f8a-4e01-9aa1-ec11477b3324",
+          "start": 30,
+          "end": 38,
+          "tag": "PAR",
+          "tag_id": "136c1cca-c375-4e45-8fa8-772aa6d9dfb9",
+          "value": "Emmanuel",
+          "correct": true,
+          "reviewed": true,
+          "annotated_by": [
+            {
+              "annotator_id": 1,
+              "timestamp": "2020-05-03T16:05:17.53+00:00",
+              "annotator": "jjozwiak"
+            }
+          ]
+        },
+        {
+          "tagged_token_id": "91fe45fd-be46-4e90-9a3e-903cc760a35a",
+          "definition_id": "da3822cb-0b33-4da7-a9c4-63989d44e00e",
+          "example_id": "040bb387-8f8a-4e01-9aa1-ec11477b3324",
+          "start": 939,
+          "end": 944,
+          "tag": "PAR",
+          "tag_id": "136c1cca-c375-4e45-8fa8-772aa6d9dfb9",
+          "value": "Nicho",
+          "correct": true,
+          "reviewed": true,
+          "annotated_by": [
+            {
+              "annotator_id": 1,
+              "timestamp": "2020-05-03T16:05:39.137+00:00",
+              "annotator": "jjozwiak"
+            }
+          ]
+        },
+        {
+          "tagged_token_id": "029464f5-e914-4b3a-8fb6-b980cec567b8",
+          "definition_id": "da3822cb-0b33-4da7-a9c4-63989d44e00e",
+          "example_id": "040bb387-8f8a-4e01-9aa1-ec11477b3324",
+          "start": 980,
+          "end": 989,
+          "tag": "TIME",
+          "tag_id": "1505a078-61b5-4b84-b128-b92618758a5d",
+          "value": "3:30-5:30",
+          "correct": true,
+          "reviewed": true,
+          "annotated_by": [
+            {
+              "annotator_id": 1,
+              "timestamp": "2020-05-03T16:05:33.929+00:00",
+              "annotator": "jjozwiak"
+            }
+          ]
+        },
+        {
+          "tagged_token_id": "cdfbb3bf-9ee3-40de-bb7c-fda512538b77",
+          "definition_id": "da3822cb-0b33-4da7-a9c4-63989d44e00e",
+          "example_id": "040bb387-8f8a-4e01-9aa1-ec11477b3324",
+          "start": 947,
+          "end": 955,
+          "tag": "PAR",
+          "tag_id": "136c1cca-c375-4e45-8fa8-772aa6d9dfb9",
+          "value": "Emmanuel",
+          "correct": true,
+          "reviewed": true,
+          "annotated_by": [
+            {
+              "annotator_id": 1,
+              "timestamp": "2020-05-03T16:05:43.882+00:00",
+              "annotator": "jjozwiak"
+            }
+          ]
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "example_id": "471adfe7-4e6b-4e17-b7e1-ae06ce162712",
+      "content": "Dear Peaceworkers,\n\nYour graduation dinner planning committee just met and we have made some fantastic plans to make this year's grad dinner just as special as ever. Please hold from 4pm-8pm on Saturday, May 16th and stay tuned for more details (we will be hosting virtually, but with some dinner drop off/pick up options). \n\nFor now, the planning committee needs your support in three things by Monday 5/11: \nPlease pick one song that you would like included in a Peaceworker 2019-2020 playlist- you can choose it for whatever reason (you love it, it reminds you of this group, it's funny...) and then send the title to Joby with one line about why you chose it! \nPlease take a few moments to send an anonymous appreciation for each of our graduates: Emmanuel, Joe, Jay, Kiplyn, Magee, and Rachel. You wil. submit them via this google form. An appreciation is a few words about what you notice or appreciate about a person- it can be about their work, their friendship, a funny memory, etc. \nPlease submit any photos from your time in the Peaceworker program that you would like included in a slideshow- these can be of Pracs, retreats, informal hang out time together, you at your placement, etc. Send them all! Submit them to this google folder: https://photos.app.goo.gl/XttfjEQbTkpLLUtD8\nIf you have any questions, let me know:) \n\nBest, \n\nCharlotte Keniston",
+      "metadata": {},
+      "seen_by": [
+        {
+          "annotator_id": 1,
+          "annotator": "jjozwiak"
+        }
+      ],
+      "annotations": [
+        {
+          "tagged_token_id": "2df382e1-af4c-4e77-a404-c0c8512f9618",
+          "definition_id": "da3822cb-0b33-4da7-a9c4-63989d44e00e",
+          "example_id": "471adfe7-4e6b-4e17-b7e1-ae06ce162712",
+          "start": 25,
+          "end": 42,
+          "tag": "EVT",
+          "tag_id": "9ac97eab-63a4-4314-9f69-80d6708fddb7",
+          "value": "graduation dinner",
+          "correct": true,
+          "reviewed": true,
+          "annotated_by": [
+            {
+              "annotator_id": 1,
+              "timestamp": "2020-05-03T16:06:26.01+00:00",
+              "annotator": "jjozwiak"
+            }
+          ]
+        },
+        {
+          "tagged_token_id": "ca78e576-d8fb-4f7c-97fd-4ed4b8d36486",
+          "definition_id": "da3822cb-0b33-4da7-a9c4-63989d44e00e",
+          "example_id": "471adfe7-4e6b-4e17-b7e1-ae06ce162712",
+          "start": 762,
+          "end": 765,
+          "tag": "PAR",
+          "tag_id": "136c1cca-c375-4e45-8fa8-772aa6d9dfb9",
+          "value": "Joe",
+          "correct": true,
+          "reviewed": true,
+          "annotated_by": [
+            {
+              "annotator_id": 1,
+              "timestamp": "2020-05-03T16:07:05.466+00:00",
+              "annotator": "jjozwiak"
+            }
+          ]
+        },
+        {
+          "tagged_token_id": "6438f2b9-e014-493a-a9c4-61581b7d39f4",
+          "definition_id": "da3822cb-0b33-4da7-a9c4-63989d44e00e",
+          "example_id": "471adfe7-4e6b-4e17-b7e1-ae06ce162712",
+          "start": 752,
+          "end": 760,
+          "tag": "PAR",
+          "tag_id": "136c1cca-c375-4e45-8fa8-772aa6d9dfb9",
+          "value": "Emmanuel",
+          "correct": true,
+          "reviewed": true,
+          "annotated_by": [
+            {
+              "annotator_id": 1,
+              "timestamp": "2020-05-03T16:06:59.738+00:00",
+              "annotator": "jjozwiak"
+            }
+          ]
+        },
+        {
+          "tagged_token_id": "a35ac043-6222-4ba8-a03e-655a8013e9c4",
+          "definition_id": "da3822cb-0b33-4da7-a9c4-63989d44e00e",
+          "example_id": "471adfe7-4e6b-4e17-b7e1-ae06ce162712",
+          "start": 1344,
+          "end": 1362,
+          "tag": "PAR",
+          "tag_id": "136c1cca-c375-4e45-8fa8-772aa6d9dfb9",
+          "value": "Charlotte Keniston",
+          "correct": true,
+          "reviewed": true,
+          "annotated_by": [
+            {
+              "annotator_id": 1,
+              "timestamp": "2020-05-03T16:06:47.145+00:00",
+              "annotator": "jjozwiak"
+            }
+          ]
+        },
+        {
+          "tagged_token_id": "5fa4dd4d-2f09-4508-85b7-0279f2bdc743",
+          "definition_id": "da3822cb-0b33-4da7-a9c4-63989d44e00e",
+          "example_id": "471adfe7-4e6b-4e17-b7e1-ae06ce162712",
+          "start": 767,
+          "end": 770,
+          "tag": "PAR",
+          "tag_id": "136c1cca-c375-4e45-8fa8-772aa6d9dfb9",
+          "value": "Jay",
+          "correct": true,
+          "reviewed": true,
+          "annotated_by": [
+            {
+              "annotator_id": 1,
+              "timestamp": "2020-05-03T16:07:07.929+00:00",
+              "annotator": "jjozwiak"
+            }
+          ]
+        },
+        {
+          "tagged_token_id": "25ae41cd-8666-40b9-ab65-71b8fa9d0498",
+          "definition_id": "da3822cb-0b33-4da7-a9c4-63989d44e00e",
+          "example_id": "471adfe7-4e6b-4e17-b7e1-ae06ce162712",
+          "start": 780,
+          "end": 785,
+          "tag": "PAR",
+          "tag_id": "136c1cca-c375-4e45-8fa8-772aa6d9dfb9",
+          "value": "Magee",
+          "correct": true,
+          "reviewed": true,
+          "annotated_by": [
+            {
+              "annotator_id": 1,
+              "timestamp": "2020-05-03T16:07:13.106+00:00",
+              "annotator": "jjozwiak"
+            }
+          ]
+        },
+        {
+          "tagged_token_id": "b18e9f0f-768d-4edf-aa2d-5fad0e452fb0",
+          "definition_id": "da3822cb-0b33-4da7-a9c4-63989d44e00e",
+          "example_id": "471adfe7-4e6b-4e17-b7e1-ae06ce162712",
+          "start": 265,
+          "end": 274,
+          "tag": "LOC",
+          "tag_id": "1335c93a-b476-4ac9-8524-73df86e4f967",
+          "value": "virtually",
+          "correct": true,
+          "reviewed": true,
+          "annotated_by": [
+            {
+              "annotator_id": 1,
+              "timestamp": "2020-05-03T16:06:37.473+00:00",
+              "annotator": "jjozwiak"
+            }
+          ]
+        },
+        {
+          "tagged_token_id": "b9dbdfb9-c990-4816-8700-15d9ab92423a",
+          "definition_id": "da3822cb-0b33-4da7-a9c4-63989d44e00e",
+          "example_id": "471adfe7-4e6b-4e17-b7e1-ae06ce162712",
+          "start": 183,
+          "end": 190,
+          "tag": "TIME",
+          "tag_id": "1505a078-61b5-4b84-b128-b92618758a5d",
+          "value": "4pm-8pm",
+          "correct": true,
+          "reviewed": true,
+          "annotated_by": [
+            {
+              "annotator_id": 1,
+              "timestamp": "2020-05-03T16:06:20.299+00:00",
+              "annotator": "jjozwiak"
+            }
+          ]
+        },
+        {
+          "tagged_token_id": "76bdc34c-1dc9-4d6f-9823-3d5ec45a7265",
+          "definition_id": "da3822cb-0b33-4da7-a9c4-63989d44e00e",
+          "example_id": "471adfe7-4e6b-4e17-b7e1-ae06ce162712",
+          "start": 791,
+          "end": 797,
+          "tag": "PAR",
+          "tag_id": "136c1cca-c375-4e45-8fa8-772aa6d9dfb9",
+          "value": "Rachel",
+          "correct": true,
+          "reviewed": true,
+          "annotated_by": [
+            {
+              "annotator_id": 1,
+              "timestamp": "2020-05-03T16:07:15.722+00:00",
+              "annotator": "jjozwiak"
+            }
+          ]
+        },
+        {
+          "tagged_token_id": "efa0d80c-0422-4ef2-a593-ce5923a0f364",
+          "definition_id": "da3822cb-0b33-4da7-a9c4-63989d44e00e",
+          "example_id": "471adfe7-4e6b-4e17-b7e1-ae06ce162712",
+          "start": 772,
+          "end": 778,
+          "tag": "PAR",
+          "tag_id": "136c1cca-c375-4e45-8fa8-772aa6d9dfb9",
+          "value": "Kiplyn",
+          "correct": true,
+          "reviewed": true,
+          "annotated_by": [
+            {
+              "annotator_id": 1,
+              "timestamp": "2020-05-03T16:07:09.786+00:00",
+              "annotator": "jjozwiak"
+            }
+          ]
+        }
+      ],
+      "classifications": []
+    },
+    {
+      "example_id": "401bfc75-fb0b-4db2-922c-6bbb9e8ed585",
+      "content": "CHICAGO The Chicago White Sox have agreed to terms on a six-year, $50-million contract with outfielder Luis Robert, plus two club options that could extend the deal through the 2027 season. Under terms of the contract, Robert, 22, will receive $1.5 million in 2020, $3.5 million in 2021, $6 million in 2022, $9.5 million in 2023, $12.5 million in 2024 and $15 million in 2025. The White Sox hold $20-million options for both 2026 and 2027, with $2 million buyouts for either season.",
+      "metadata": {},
+      "seen_by": [
+        {
+          "annotator_id": 1,
+          "annotator": "jjozwiak"
+        }
+      ],
+      "annotations": [],
+      "classifications": []
+    },
+    {
+      "example_id": "784ca0e0-bc44-413f-8609-0b990fadd924",
+      "content": "Hi Everyone, \n\nJust ahead of our prac I wanted to share an article that I read last month commemorating September 11, 2001: \n\nIn every generation, those who have undertaken national service, in the military or in a civilian capacity, have emerged more connected to their generation and more invested in their country. It compels young people out of their comfort zones and cultivates a sense of duty and civic responsibility, all while surrounding them with people from different corners of the country and the globe who look, pray, sound, and live differently from themselves. From our perch in the White House, we saw this culture of service emerge strongly after 9/11, the last time there were more national service opportunities through programs like the Peace Corps, Senior Corps, AmeriCorps, and Volunteers in Service to America.\n\nIndeed, many of us were shaped by this event, where a culture of fear created a more resilient, collective identity. Obviously we've all done something scary getting out of or comfort zones through service, so in the spirit of Halloween, we'll have a brief conversation that explores what some of our fears are and how we carry (or mask) them in our lives as public servants.\n\nBefore joining us on Friday please think about other stronger fears that have stayed with you or developed in the present day.\n\nWe'll be meeting at 3:30 at Westminster Hall in downtown Baltimore where we'll take a guided tour so make sure to comfortably dress for the weather as we may be outdoors for an extended time.\n\n\nBest, \nNicho + Emmanuel",
+      "metadata": {},
+      "seen_by": [
+        {
+          "annotator_id": 1,
+          "annotator": "jjozwiak"
+        }
+      ],
+      "annotations": [
+        {
+          "tagged_token_id": "f96399d2-b352-4ada-8d22-368359a5209e",
+          "definition_id": "da3822cb-0b33-4da7-a9c4-63989d44e00e",
+          "example_id": "784ca0e0-bc44-413f-8609-0b990fadd924",
+          "start": 1543,
+          "end": 1548,
+          "tag": "PAR",
+          "tag_id": "136c1cca-c375-4e45-8fa8-772aa6d9dfb9",
+          "value": "Nicho",
+          "correct": true,
+          "reviewed": true,
+          "annotated_by": [
+            {
+              "annotator_id": 1,
+              "timestamp": "2020-05-03T16:08:02.753+00:00",
+              "annotator": "jjozwiak"
+            }
+          ]
+        },
+        {
+          "tagged_token_id": "c6ee90d3-5d76-4510-bf73-dd05a4ad10d0",
+          "definition_id": "da3822cb-0b33-4da7-a9c4-63989d44e00e",
+          "example_id": "784ca0e0-bc44-413f-8609-0b990fadd924",
+          "start": 1370,
+          "end": 1386,
+          "tag": "LOC",
+          "tag_id": "1335c93a-b476-4ac9-8524-73df86e4f967",
+          "value": "Westminster Hall",
+          "correct": true,
+          "reviewed": true,
+          "annotated_by": [
+            {
+              "annotator_id": 1,
+              "timestamp": "2020-05-03T16:07:56.641+00:00",
+              "annotator": "jjozwiak"
+            }
+          ]
+        },
+        {
+          "tagged_token_id": "9545f229-0635-43be-b4dd-ebdc74632a75",
+          "definition_id": "da3822cb-0b33-4da7-a9c4-63989d44e00e",
+          "example_id": "784ca0e0-bc44-413f-8609-0b990fadd924",
+          "start": 1362,
+          "end": 1366,
+          "tag": "TIME",
+          "tag_id": "1505a078-61b5-4b84-b128-b92618758a5d",
+          "value": "3:30",
+          "correct": true,
+          "reviewed": true,
+          "annotated_by": [
+            {
+              "annotator_id": 1,
+              "timestamp": "2020-05-03T16:07:50.849+00:00",
+              "annotator": "jjozwiak"
+            }
+          ]
+        },
+        {
+          "tagged_token_id": "949dfaf0-7769-4cb1-9724-66edc6a40f4d",
+          "definition_id": "da3822cb-0b33-4da7-a9c4-63989d44e00e",
+          "example_id": "784ca0e0-bc44-413f-8609-0b990fadd924",
+          "start": 1551,
+          "end": 1559,
+          "tag": "PAR",
+          "tag_id": "136c1cca-c375-4e45-8fa8-772aa6d9dfb9",
+          "value": "Emmanuel",
+          "correct": true,
+          "reviewed": true,
+          "annotated_by": [
+            {
+              "annotator_id": 1,
+              "timestamp": "2020-05-03T16:08:05.809+00:00",
+              "annotator": "jjozwiak"
+            }
+          ]
+        },
+        {
+          "tagged_token_id": "e22619f9-7785-4f28-a1df-602b4cff62b8",
+          "definition_id": "da3822cb-0b33-4da7-a9c4-63989d44e00e",
+          "example_id": "784ca0e0-bc44-413f-8609-0b990fadd924",
+          "start": 33,
+          "end": 37,
+          "tag": "EVT",
+          "tag_id": "9ac97eab-63a4-4314-9f69-80d6708fddb7",
+          "value": "prac",
+          "correct": true,
+          "reviewed": true,
+          "annotated_by": [
+            {
+              "annotator_id": 1,
+              "timestamp": "2020-05-03T16:07:39.081+00:00",
+              "annotator": "jjozwiak"
+            }
+          ]
+        }
+      ],
+      "classifications": []
+    }
+  ],
+  "schema": {
+    "id": "c2966838-bb4e-4b0a-8f87-275fab559921",
+    "archived": false,
+    "slug": "new-schema-537f8a65",
+    "name": "Class_Assignment",
+    "tags": [
+      {
+        "id": "9ac97eab-63a4-4314-9f69-80d6708fddb7",
+        "name": "EVT",
+        "description": "",
+        "schema_id": "c2966838-bb4e-4b0a-8f87-275fab559921"
+      },
+      {
+        "id": "1505a078-61b5-4b84-b128-b92618758a5d",
+        "name": "TIME",
+        "description": "",
+        "schema_id": "c2966838-bb4e-4b0a-8f87-275fab559921"
+      },
+      {
+        "id": "1335c93a-b476-4ac9-8524-73df86e4f967",
+        "name": "LOC",
+        "description": "",
+        "schema_id": "c2966838-bb4e-4b0a-8f87-275fab559921"
+      },
+      {
+        "id": "136c1cca-c375-4e45-8fa8-772aa6d9dfb9",
+        "name": "PAR",
+        "description": "",
+        "schema_id": "c2966838-bb4e-4b0a-8f87-275fab559921"
+      }
+    ],
+    "project": "dbb103ee-e3ea-4f6d-bfbd-2856e9109a34",
+    "classification_types": [],
+    "project_id": "dbb103ee-e3ea-4f6d-bfbd-2856e9109a34",
+    "models": [],
+    "editable": false,
+    "classification_mode": false
+  },
+  "dataset": {
+    "id": "1fb03fb6-4615-4d1f-9c45-425bbed8bd21",
+    "slug": "new-dataset-7f85945f",
+    "url": "/api/v1/projects/default/datasets/new-dataset-7f85945f/",
+    "name": "Email_Dataset",
+    "id_field": null,
+    "content_field": "",
+    "aggregation_field": null,
+    "order_field": null,
+    "project_id": "dbb103ee-e3ea-4f6d-bfbd-2856e9109a34",
+    "upload_status": "started",
+    "archived": true,
+    "editable": false
+  },
+  "relations": [
+    {
+      "id": "b94ecb91-943e-4a3a-8380-806f7f1bd115",
+      "materialized_path": "bfdb550d-9068-4dc3-8b80-aea3955fe924/b94ecb91-943e-4a3a-8380-806f7f1bd115",
+      "children": [],
+      "type": "token",
+      "tagged_token_id": "aeb8c1f2-bd2d-4924-96bc-eecd6218ce1d",
+      "pseudo_node_type": null,
+      "relation_type": null,
+      "annotator_id": 1,
+      "annotator": "jjozwiak",
+      "parent_id": "bfdb550d-9068-4dc3-8b80-aea3955fe924"
+    },
+    {
+      "id": "bfdb550d-9068-4dc3-8b80-aea3955fe924",
+      "materialized_path": "bfdb550d-9068-4dc3-8b80-aea3955fe924",
+      "children": [
+        "b94ecb91-943e-4a3a-8380-806f7f1bd115"
+      ],
+      "type": "token",
+      "tagged_token_id": "a8527f9c-b7cc-426d-903d-9bf18155297b",
+      "pseudo_node_type": null,
+      "relation_type": null,
+      "annotator_id": 1,
+      "annotator": "jjozwiak",
+      "parent_id": null
+    }
+  ],
+  "name": "email_annotation",
+  "annotators_per_example": "2"
+}
